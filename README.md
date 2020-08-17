@@ -2,13 +2,24 @@
 
 Weekend fun project during Covid lockdown
 
-Prerequisites
+## Prerequisites
 - ncurses  
   Install on Linux with   
-  sudo apt-get install libncurses5-dev libncursesw5-dev  
-  
+  ```sh
+  $ sudo apt-get install libncurses5-dev libncursesw5-dev  
+  ```
   Install on Mac with   
-  brew install homebrew/dupes/ncurses  
-  
-'make' to build and then run with ./s or ./s1
+  ```sh
+  $ brew install homebrew/dupes/ncurses  
+  ```
+  ## Build
+```sh
+#to build  
+snake$ make
+
+#to run  
+snake$ ./s
+
+#or  
+snake$ ./s1
   
