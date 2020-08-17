@@ -12,7 +12,7 @@ Weekend fun project during Covid lockdown
   ```sh
   $ brew install homebrew/dupes/ncurses  
   ```
-  ## Build
+## Build
 ```sh
 #to build  
 snake$ make
